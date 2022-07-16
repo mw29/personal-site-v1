@@ -13,9 +13,9 @@ function Home() {
                     I graduated from Colorado State University in May 2022 with majors in Computer Science and Economics and a minor in Statistics.
                 </p>
             </div>
-            <Button className="btn">
+            <span span type='button' className='button'>
                 Resume
-            </Button>
+            </span>
         </div>
 
     );
