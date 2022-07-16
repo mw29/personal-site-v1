@@ -5,13 +5,12 @@ import { BrowserRouter, Link, Route } from "react-router-dom";
 
 function Header(){
     return(
-        
             <div className="container-fluid">
                 <div className="row justify-content-between">
-                    <div className="col-4">
+                    <div className="col-4 align-self-center">
                         <h2>Test Header</h2>
                     </div>
-                    <div className="col-6">
+                    <div className="col-6 align-self-center">
                         <NavBar/>
                     </div>
 
