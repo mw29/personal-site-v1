@@ -3,6 +3,7 @@ ul {
     margin-right: 1.5em;
     overflow: hidden;
     display: flex;
+    justify-content: right;
 }
 
 li {
