@@ -6,7 +6,7 @@ import Research from "./pages/research/research";
 import Projects from "./pages/projects/projects";
 import Contact from "./pages/contact/contact";
 
-function App() {
+export default function App() {
 
   return (
     <BrowserRouter>
@@ -22,4 +22,3 @@ function App() {
   );
 }
 
-ReactDOM.render(<App />, document.getElementById("root"));
