@@ -5,6 +5,7 @@ import Home from "./pages/home/Home";
 import Research from "./pages/research/research";
 import Projects from "./pages/projects/projects";
 import Contact from "./pages/contact/contact";
+import './App.css';
 
 export default function App() {
 
