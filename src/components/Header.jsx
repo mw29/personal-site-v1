@@ -5,17 +5,19 @@ import { BrowserRouter, Link, Route } from "react-router-dom";
 
 function Header(){
     return(
+        <div className="header-container">
             <div className="container-fluid">
-                <div className="row justify-content-between">
-                    <div className="col-4 align-self-center">
-                        <h2>Test Header</h2>
+                <div className="row justify-content-between ">
+                    <div className="col-4 ">
+                        <h2 className="header-title">Madeline Watts</h2>                       
                     </div>
-                    <div className="col-6 align-self-center">
+                    <div className="col-6 ">
                         <NavBar/>
                     </div>
 
                 </div>
             </div>
+        </div>
     );
 }
 

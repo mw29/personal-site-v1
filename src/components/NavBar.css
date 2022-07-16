@@ -1,8 +1,9 @@
-ul {
+.nav-list {
     list-style-type: none;
     margin-right: 1.5em;
     overflow: hidden;
     justify-content: right;
+    
 }
 
 li {
