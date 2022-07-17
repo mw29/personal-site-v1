@@ -8,10 +8,10 @@ function Header(){
         <div className="header-container">
             <div className="container-fluid">
                 <div className="row justify-content-between ">
-                    <div className="col-4 ">
+                    <div className="col">
                         <h2 className="header-title">Madeline Watts</h2>                       
                     </div>
-                    <div className="col-6 ">
+                    <div className="col-3">
                         <NavBar/>
                     </div>
 
