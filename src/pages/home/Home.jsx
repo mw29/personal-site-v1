@@ -1,6 +1,7 @@
 import React from "react";
 import { Button } from "react-bootstrap";
 import './Home.css';
+import Resume from '../../assets/resume.pdf';
 function Home() {
     return (
         <div className="container">
@@ -10,11 +11,11 @@ function Home() {
             <br/>
             <div>
                 <p>
-                    I graduated from Colorado State University in May 2022 with majors in Computer Science and Economics and a minor in Statistics.
+                    I graduated from Colorado State University in May 2022 with majors in Computer Science and Economics and a minor in Statistics.  
                 </p>
             </div>
-            <span span type='button' className='button'>
-                Resume
+            <span span type='button'>
+                <a href={Resume} target="_blank" className="button">Resume</a>
             </span>
         </div>
 
