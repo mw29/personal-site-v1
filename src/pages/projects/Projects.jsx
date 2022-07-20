@@ -1,10 +1,11 @@
 import React from "react";
 
-function Projects(){
-    return(
+function Projects() {
+    return (
         <div className="container">
-            <br/>
+            <br />
             <h1>Projects</h1>
+            <br/>
         </div>
     );
 }

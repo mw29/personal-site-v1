@@ -1,5 +1,4 @@
 import React from "react";
-import { Button } from "react-bootstrap";
 import './Home.css';
 import Resume from '../../assets/resume.pdf';
 function Home() {
@@ -23,4 +22,4 @@ function Home() {
     );
 }
 
-export default Home;
+export default Home; 
