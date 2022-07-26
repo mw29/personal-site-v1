@@ -17,7 +17,13 @@ function Home() {
                             <br />
                             <h1 class="display-3">Hello, I'm</h1>
                             <h1 class="display-1">Madeline Watts.</h1>
-                            <br />
+                            <br/>
+                            <h5 className="display-7">
+                                Welcome to my website! I graduated from Colorado State Univeristy in May 2022 with majors in Computer Science and Economics and a minor in Statistics. 
+                                During college, I worked as an research assistant, teaching assistant, leader in student organizations, and advocate for underrepresented populations in copmuter science. 
+                                Through these experiences, I cemented my passion for computing and my life long mission of ensuring everyone has a place in tech. 
+                            </h5>
+                            <br/>
                             <span span type='button'>
                                 <a href={Resume} target="_blank" className="button">Resume</a>
                             </span>
