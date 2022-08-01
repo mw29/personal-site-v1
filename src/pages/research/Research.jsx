@@ -4,6 +4,7 @@ import "./Research.css";
 function Research(){
     return(
         <div className="container">
+            <h1>Research</h1>
             <div className="row">
                 <div className="col">
                     <h3>Geometry of Learning</h3>
