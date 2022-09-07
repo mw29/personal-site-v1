@@ -20,7 +20,7 @@ function Home() {
                             <br/>
                             <h5 className="display-7">
                                 Welcome to my website! I graduated from Colorado State Univeristy in May 2022 with majors in Computer Science and Economics and a minor in Statistics. 
-                                During college, I worked as an research assistant, teaching assistant, leader in student organizations, and advocate for underrepresented populations in copmuter science. 
+                                During college, I was a research assistant, teaching assistant, leader in student organizations, and advocate for underrepresented populations in computer science. 
                                 Through these experiences, I cemented my passion for computing and my life long mission of ensuring everyone has a place in tech. 
                             </h5>
                             <br/>
