@@ -7,7 +7,6 @@ import SideBar from "../sidebar/SideBar";
 function Header() {
     return (
         <div>
-            <StockTicker />
             <div className="header-container">
 
                 <div className="container-fluid">
