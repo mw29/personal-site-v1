@@ -7,7 +7,7 @@ function Projects() {
             <h1>Projects</h1>
             <br />
             <div class="row">
-                <div class="col">
+                <div class="col-lg-4 col-sm-12 mb-sm-3 mb-md-0">
                     <div className="card">
                         <div className="card-body">
                             <h4 className="card-title">Bayesian Neural Network</h4>
@@ -17,7 +17,7 @@ function Projects() {
                     </div>
                 </div>
                 
-                <div class="col">
+                <div class="col-lg-4 col-sm-12 mb-sm-3 mb-md-0">
                     <div className="card">
                         <div className="card-body">
                             <h4 className="card-title">Microgestures in 3D</h4>
@@ -28,7 +28,7 @@ function Projects() {
                     </div>
                 </div>
                 
-                <div class="col">
+                <div class="col-lg-4 col-sm-12 mb-sm-3 mb-md-0">
                     <div className="card">
                         <div className="card-body">
                             <h4 className="card-title"> Ethical AI Elicitation</h4>
@@ -40,9 +40,8 @@ function Projects() {
                 </div>
                 
                 </div>
-                <br/>
                 <div class="row">
-                <div class="col">
+                <div class="col-lg-3 col-sm-12 mb-sm-3 mb-md-0">
                     <div className="card">
                         <div className="card-body">
                             <h4 className="card-title">“Hitchhiker” Ride Sharing Application</h4>
@@ -52,7 +51,7 @@ function Projects() {
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-lg-3 col-sm-12 mb-sm-3 mb-md-0">
                     <div className="card">
                         <div className="card-body">
                             <h4 className="card-title">Intelligent Music Player</h4>
@@ -63,7 +62,7 @@ function Projects() {
                     </div>
                 </div>
                 
-                <div class="col">
+                <div class="col-lg-3 col-sm-12 mb-sm-3 mb-md-0">
                     <div className="card">
                         <div className="card-body">
                             <h4 className="card-title">Coding Chat (Intelligent Immersive Classroom):</h4>
@@ -74,7 +73,7 @@ function Projects() {
                     </div>
                 </div>
                 
-                    <div class="col">
+                    <div class="col-lg-3 col-sm-12 mb-sm-3 mb-md-0">
                         <div className="card">
                             <div className="card-body">
                                 <h4 className="card-title">Immersive Environments for the Aging Brain:</h4>
