@@ -7,7 +7,7 @@ function Research(){
             <br/>
             <h1>Research</h1>
             <br/>
-                <br/>
+            <br/>
             <div className="row">
                 <div className="col">
                     <h3>Geometry of Learning</h3>

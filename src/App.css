@@ -21,7 +21,13 @@
 }
 
 .card {
-  padding: 2em;
+  padding: .15em;
+  background-color: #5E548E;
+  height: 300px;
+}
+
+.card-title{
+  color: #E0B1CB;
 }
 
 .read-the-docs {
